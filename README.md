@@ -4,6 +4,7 @@
 
 - `solution.py` — main solution script
 - `puzzle_input.txt` — input data file
+- `maze_advent_task.txt` — task description
 
 ## How to run
 
